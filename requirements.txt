@@ -1,0 +1,6 @@
+tensorflow
+keras
+Pillow
+matplotlib
+seaborn
+jupyterlab
