@@ -1,6 +1,8 @@
-tensorflow
-keras
-Pillow
-matplotlib
-seaborn
 jupyterlab
+keras
+matplotlib
+numpy
+Pillow
+seaborn
+sklearn
+tensorflow
